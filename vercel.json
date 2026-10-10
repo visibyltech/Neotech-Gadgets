@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://driftwood-circuits.vercel.app/$1"
+    }
+  ]
+}
